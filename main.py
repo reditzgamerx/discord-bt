@@ -104,6 +104,6 @@ keep_alive()
 
 # Run Bot using Render Environment Variable
 import os
-bot.run(os.getenv('MTUzOTk5MjY5ODU0NTYzNTM1OA.Gm1c9r.1GKpfzRXKhZVFlq6Vy4MljieZ2KzWPA3-G8I6c'))
+bot.run(os.getenv('MTUzOTk5MjY5ODU0NTYzNTM1OA.GiuKEH.c6AbeYkhoswh_ttPVvzVN27xGhJg7rlLF_fO0Q')
 
 
