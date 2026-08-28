@@ -103,5 +103,5 @@ async def slash_error(interaction: discord.Interaction, error):
 keep_alive()
 
 # Run Bot using Render Environment Variable
-bot.run(os.environ.get("MTUzOTk5MjY5ODU0NTYzNTM1OA.G32Xon.iTeVq_xvXe4Cjw0tf5_skXufTjUoF4b3GO-E9Q"))
+bot.run(os.environ.get("MTUzOTk5MjY5ODU0NTYzNTM1OA.Gm1c9r.1GKpfzRXKhZVFlq6Vy4MljieZ2KzWPA3-G8I6c"))
                                              
